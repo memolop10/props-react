@@ -1,8 +1,6 @@
 import React from 'react'
 
 const Saludo = (props) => {
-    
-    console.log(props)
 
     return (
         <div>
